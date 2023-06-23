@@ -1,1 +1,2 @@
 # Fake-News_Classification
+This project involved analyzing a handpicked dataset of news articles to classify them as true or fake using machine learning. I conducted data analysis to gain insights into the data, trained neural networks to classify news as true or fake and performed error analysis to gain insights into the model and its limitations.
